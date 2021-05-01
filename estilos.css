@@ -264,7 +264,7 @@ ul.tabs li a .tab-text{
         flex-grow: 1;
     }
 }
-
+/**Responsive a tamaño 450px*/
 @media screen and (max-width: 450px){
     ul .tabs li a{
        padding: 15px 0px;
